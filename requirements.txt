@@ -126,3 +126,5 @@ webencodings==0.5.1
 wrapt==1.16.0
 yarl==1.9.2
 zipp==3.17.0
+unstructured
+lxml
